@@ -4,11 +4,17 @@ The yoruba speech recognition model is designed to accurately transcribe yoruba 
 
 # Tech Stack
 •	Programming Language: Python
+
 •	Machine Learning Framework: TensorFlow/Keras
+
 •	Model Architecture:  Long Short-Term Memory (LSTM) network for sequential audio data processing
+
 •	Data Handling: Numpy, Pandas for data manipulation and preprocessing
+
 •	Audio Processing: Librosa for audio loading, transformation, and feature extraction
+
 •	ML Utilities: scikit-learn for preprocessing, feature extraction, and evaluation metrics
+
 •	Visualization: Matplotlib (plt) for visualizing data distributions, model performance, and other insights
 
 
